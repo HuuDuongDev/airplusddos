@@ -11,17 +11,17 @@ $ pkg install git -y
 
 $ git clone https://github.com/HuuDuongDev/airplusddos
 
-$ cd biyivi_ataque_DDos
+$ cd airplusddos
 
 $ bash install.sh
 
-$ python airplus by phd .py
+$ python airplus by phd.py
 ## Linux:
 $ git clone https://github.com/HuuDuongDev/airplusddos
 
 $ cd airplusddos
 
-$ python airplus by phd .py 
+$ python airplus by phd.py
 
 # Redes sociales:
 ## FACEBOOK:
